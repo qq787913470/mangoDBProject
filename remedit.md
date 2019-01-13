@@ -1,0 +1,1 @@
+F:\高并发\mongodb-win32-x86_64-2.0.4\mongodb-win32-x86_64-2.0.4\bin>mongod --dbpath F:\mangodb-data\db
