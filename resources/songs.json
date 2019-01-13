@@ -1,0 +1,7 @@
+{"_id":{"$oid":"579b710e757174516ad8cece"},"decade":"1970s","artist":"Debby Boone","song":"You Light Up My Life","weeksAtOne":"10"}
+{"_id":{"$oid":"579b76f2b757a40f385f2b13"},"decade":"1970s","artist":"Debby Boone","song":"You Light Up My Life","weeksAtOne":10}
+{"_id":{"$oid":"579b76f2b757a40f385f2b14"},"decade":"1980s","artist":"Olivia Newton-John","song":"Physical","weeksAtOne":10}
+{"_id":{"$oid":"579b76f2b757a40f385f2b15"},"decade":"1990s","artist":"Mariah Carey ft. Boyz II Men","song":"One Sweet Day","weeksAtOne":16}
+{"_id":{"$oid":"579b77eeb757a4262c957ab2"},"decade":"1970s","artist":"Debby Boone","song":"You Light Up My Life","weeksAtOne":10}
+{"_id":{"$oid":"579b77eeb757a4262c957ab3"},"decade":"1980s","artist":"Olivia Newton-John","song":"Physical","weeksAtOne":10}
+{"_id":{"$oid":"579b77eeb757a4262c957ab4"},"decade":"1990s","artist":"Mariah Carey","song":"One Sweet Day","weeksAtOne":16}
