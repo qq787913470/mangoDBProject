@@ -6,7 +6,10 @@ import junit.framework.TestSuite;
 
 /**
  * Unit test for simple App.
-        System.out.println();
+    public static void main(String[] args) {
+        System.out.prinaaaatln();
+
+    }
  */
 public class AppTest
     extends TestCase
