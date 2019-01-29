@@ -11,7 +11,7 @@ public class AppTest
     extends TestCase
 {
     public static void main(String[] args) {
-        System.out.println(aaa);
+        System.out.println(bbb);
     }
     /**
      * Create the test case
